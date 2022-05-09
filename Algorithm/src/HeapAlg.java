@@ -1,5 +1,8 @@
 import java.util.PriorityQueue;
 
+/* 프로그래머스 레벨2 스코빌 지수를 구하라. */
+/* 시간복잡도 감소를 위하여 Heap 을 사용하여 구현 */
+
 public class HeapAlg {
 
 	public static void main(String[] args) {

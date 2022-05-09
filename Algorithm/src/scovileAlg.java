@@ -2,6 +2,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/* 프로그래머스 레벨2 스코빌 지수를 구하라. */
+/* 시간복잡도를 고려하지 않고 배열로 구현 -> 효율성 fail */
+
 public class scovileAlg {
 
 	public static void main(String[] args) {

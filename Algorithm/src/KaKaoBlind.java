@@ -1,4 +1,7 @@
 
+/* 프로그래머스 레벨2 카카오블라인드 테스트 알고리즘 - 
+ * () 의 짝을 맞춰 재구성 하라. */
+
 public class KaKaoBlind {
 
 	public static void main(String[] args) {

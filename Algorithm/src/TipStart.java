@@ -1,4 +1,6 @@
 
+/* 프로그래머스 레벨 2 2017 팁스다운 - 예상대진표 */
+
 public class TipStart {
 
 	public static void main(String[] args) {
