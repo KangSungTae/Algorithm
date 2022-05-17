@@ -19,7 +19,7 @@ public class NormalRectangular {
         return answer;
     }
 	
-    /* 재귀함수로 풀이했을경우 시간복잡도 ↓ */ 
+    /* 단일 함수로 풀이했을경우 시간복잡도 ↓ */ 
     public static int gcd(int w, int h) {
         
     	int answer = 1;
