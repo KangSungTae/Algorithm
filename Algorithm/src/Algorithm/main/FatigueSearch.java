@@ -1,3 +1,4 @@
+package Algorithm.main;
 import java.util.Arrays;
 
 public class FatigueSearch {
